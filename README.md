@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🍉 .NET(C#) developer, occasionally writes some web front-end.  
+🍉 .NET(C#) 开发，偶尔写一点 web 前端。  
+
+blog: <https://blog.jgrass.cc>  
+博客园: <https://www.cnblogs.com/jasongrass>  
